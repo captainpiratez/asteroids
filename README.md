@@ -1,4 +1,3 @@
-```markdown
 # How to Run the Application
 
 ## Requirements
@@ -10,7 +9,6 @@
 1. Create a virtual environment:
    ```bash
    python3 -m venv venv
-   ```
 
 2. Activate the virtual environment:
    - On Linux/macOS:
